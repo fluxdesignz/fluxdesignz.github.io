@@ -1,9 +1,14 @@
 body {
     font-family: Figtree, sans-serif;
+    background-color: black;
 }
 p {
     font-size: 16px;
 }
 h1, h2, h3 {
     font-family: Sora, Figtree, sans-serif;
+}
+.container {
+    gap: 15px;
+    border-radius: 15px;
 }
