@@ -49,6 +49,7 @@ main h3 {
     font-weight: 500;
     line-height: normal;
     z-index: 1;
+    transition: 0.3s;
 }
 
 nav {
@@ -63,4 +64,15 @@ nav {
 a {
     text-decoration: none;
     color: white;
+    transition: 0.3s;
+}
+
+a:hover {
+    scale: 1.05;
+    font-weight: 800;
+
+}
+
+.navbar:hover {
+    background: rgba(157, 135, 255, 0.5);
 }
