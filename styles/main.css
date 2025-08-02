@@ -36,7 +36,7 @@ main h3 {
     align-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    border-radius: 2000px;
+    border-radius: 36px;
     border: 2px solid rgba(255, 255, 255, 0.10);
     background: rgba(131, 103, 255, 0.50);
     box-shadow: 0 4px 22.2px 0 rgba(0, 0, 0, 0.15);
